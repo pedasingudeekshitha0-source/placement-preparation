@@ -12,3 +12,8 @@ class TwoSum {
         }
     }
 }
+
+/*
+Output:
+0 1
+*/
